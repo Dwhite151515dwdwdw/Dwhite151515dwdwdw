@@ -6,7 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-git clone https://github.com/your-username/affiliate-blog-landing-pag1.git
-cd affiliate-blog-landing-page1
+
 
 
